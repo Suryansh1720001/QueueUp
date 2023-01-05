@@ -8,7 +8,7 @@
 ## 🏆 We won the 2nd Prize in this ideathon. 
 
 
-## Screeshot of the application
+## Screeshot of the webpage -
 
 ![image](https://user-images.githubusercontent.com/85965606/210623207-39f2855b-1004-43be-a1d8-725851ef7e0a.png)
 
