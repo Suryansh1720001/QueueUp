@@ -12,10 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/85965606/210623207-39f2855b-1004-43be-a1d8-725851ef7e0a.png)
 
-
-
-
-
 # Certificate - 
 
 ### Suryansh Prajapati's Certificate 
@@ -25,6 +21,3 @@
 ### Neha Kumari's Certificate 
 
 ![image](https://user-images.githubusercontent.com/85965606/210625508-0689eaaf-7e7b-4aae-a60a-b0ca2f570726.png)
-
-
-
